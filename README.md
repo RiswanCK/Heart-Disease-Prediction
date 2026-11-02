@@ -1,6 +1,6 @@
 # Heart-Disease-Prediction
 Predicting heart disease by comparing machine learning models 
-# ❤️ Heart Disease Prediction Using Machine Learning
+# 🫀 Heart Disease Prediction Using Machine Learning
 
 ## 📌 Project Overview
 
